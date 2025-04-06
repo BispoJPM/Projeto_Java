@@ -2,7 +2,7 @@ package Dia2;
 
 import java.util.Scanner;
 
-public class Exercicio {
+public class Ex0 {
     public static void main(String[] args) {
 
         // Crie um programa que imprime seu nome e idade no console.

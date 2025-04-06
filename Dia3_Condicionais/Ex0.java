@@ -2,7 +2,7 @@ package Dia3;
 
 import java.util.Scanner;
 
-public class Exercicio {
+public class Ex0 {
     public static void main(String[] args) {
         
         Scanner idade = new Scanner(System.in);
