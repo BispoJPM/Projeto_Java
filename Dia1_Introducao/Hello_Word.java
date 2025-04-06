@@ -1,4 +1,4 @@
-package Dia1;
+package Dia1_Introducao;
 
 public class Hello_Word{
     public static void main(String[] args) {

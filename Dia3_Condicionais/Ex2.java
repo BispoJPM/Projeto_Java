@@ -1,4 +1,4 @@
-package Dia3;
+package Dia3_Condicionais;
 
 import java.util.Scanner;
 

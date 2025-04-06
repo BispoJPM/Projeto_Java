@@ -1,4 +1,4 @@
-package Dia4_Repeticoes;
+package Dia3_Condicionais;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Dia2;
+package Dia2_Tipos;
 
 import java.util.Scanner;
 

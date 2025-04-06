@@ -1,4 +1,4 @@
-package Dia1;
+package Dia1_Introducao;
 
 import java.util.Scanner;
 

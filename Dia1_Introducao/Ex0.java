@@ -1,4 +1,4 @@
-package Dia1;
+package Dia1_Introducao;
 
 public class Ex0 {
     public static void main(String[] args) {
