@@ -1,4 +1,4 @@
-package Dia3;
+package Dia4_Repeticoes;
 
 import java.util.Scanner;
 
