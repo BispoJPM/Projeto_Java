@@ -65,8 +65,7 @@ Caso queira trocar ideia, tirar dúvidas ou compartilhar sua jornada também, me
 
 ---
 
-**Feito com dedicação e vontade de aprender.**  
-💻✨ #JavaDoZero #100DaysOfCode
+💻✨ #JavaDoZero #30DaysOfCode
 
 > “A melhor maneira de aprender é fazendo.” – Bora codar! 💻✨
 
