@@ -1,4 +1,4 @@
-# 🧠 Jornada Java: Do Zero ao Full Stack com Spring Boot
+# 🧠 Projeto Java: Do Zero ao Full Stack com Spring Boot
 
 Este repositório é o diário da minha jornada para aprender **Java** do absoluto zero até a criação de aplicações com **Spring Boot**, **APIs REST** e integração com banco de dados **MySQL**. 🚀
 
