@@ -1,25 +1,23 @@
 package dia03_condicionais.exercicios;
-
 import java.util.Scanner;
 
 public class Exercicio {
     public static void main(String[] args) {
-        
-        Scanner idade = new Scanner(System.in);
-        
-        System.out.println("Digite sua idade: ");
-        int id1 = idade.nextInt();
-        int maior = 18;
-        String ter;
 
-        if(id1 >= 18){
-            System.out.println("Você é maior de idade");
+        // Solicite ao usuário um número e diga se é positivo, negativo ou zero.
+
+        Scanner sc = new Scanner(System.in);
+        
+        System.out.print("Digite seu numero: ");
+        int num = sc.nextInt();
+
+        if (num < 0){
+            System.out.println("Ele é negativo");
+        } else if (num > 0) {
+            System.out.println("Ele é positivo");
         } else {
-            System.out.println("Voce é menor de idade");
+            System.out.println("Ele é zero");
         }
-
-        ter = (id1 >= 18 ? "Maior de idade" : "Menor de idade");
-        System.out.println("Você é " + ter);
-
     }
 }
+
