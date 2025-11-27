@@ -1,4 +1,4 @@
-package dia04_repeticoes.exercicios;
+package dia04_repeticoes.exercicios.FOR;
 
 import java.util.Scanner;
 

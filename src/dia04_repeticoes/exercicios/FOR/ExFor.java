@@ -1,10 +1,12 @@
-package dia04_repeticoes.exercicios;
+package dia04_repeticoes.exercicios.FOR;
 
 import java.util.Scanner;
 
 public class ExFor {
 
     public static void main(String[] args) {
+
+        // ver a soma do numero
 
         Scanner num = new Scanner(System.in);
 
