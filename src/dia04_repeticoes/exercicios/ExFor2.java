@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ExFor2 {
     public static void main(String[] args) {
         
+        // digitar um numero e ver a tabuada
 
         Scanner num = new Scanner(System.in);
         System.out.println("Digite um número para ver a tabuada: ");
